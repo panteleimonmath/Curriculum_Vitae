@@ -1,4 +1,4 @@
 # Curriculum_Vitae
 Added my CV with the dissertation (pdf) from the M.Sc. that i completed.
-[Dissertatio's Link](https://dione.lib.unipi.gr/xmlui/handle/unipi/15232)
+[Dissertation's Link](https://dione.lib.unipi.gr/xmlui/handle/unipi/15232)
 
